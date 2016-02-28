@@ -1,0 +1,25 @@
+_repo: Aunt-Judy-s-Tales_5074
+creator:
+  author:
+    agent_name: Gatty, Alfred, Mrs.
+    alias: Gatty, Margaret Scott
+    birthdate: 1809
+    deathdate: 1873
+    gutenberg_agent_id: '1691'
+    url: http://www.gutenberg.org/2009/agents/1691
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: The little victims -- Vegetables out of place -- Cook stories --
+  Rabbits' tails -- Out of the way -- Nothing to do.
+title: Aunt Judy's Tales
+url: http://www.gutenberg.org/ebooks/5074
