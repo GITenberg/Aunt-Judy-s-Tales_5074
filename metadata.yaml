@@ -1,5 +1,8 @@
 _repo: Aunt-Judy-s-Tales_5074
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gatty, Alfred, Mrs.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1691'
     url: http://www.gutenberg.org/2009/agents/1691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5074#Aunt-Judy-s-Tales
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
